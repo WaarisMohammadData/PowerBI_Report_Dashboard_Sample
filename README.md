@@ -1,7 +1,8 @@
 # PowerBI_Report_Dashboard_Sample
 Sample Power BI report and dashboard
 This Power BI dashboard provides a comprehensive analysis of key business metrics—Gross Profit, Quantity, and Sales—using the provided dataset (Plant_DTS.xls). The dashboard is designed to help stakeholders gain insights into product performance, sales trends, and profitability over time. It offers interactive visualizations, allowing users to drill down into specific time periods, products, or accounts for deeper analysis.
-Key Features
+
+Key Features are -
 
 ## Gross Profit Analysis:
 
